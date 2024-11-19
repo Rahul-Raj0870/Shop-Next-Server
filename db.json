@@ -1,0 +1,60 @@
+{
+  "userdetails": [
+    {
+      "id": "a85a",
+      "name": "mathew",
+      "email": "math@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "a782",
+      "name": "Varun",
+      "email": "varun@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "4025",
+      "name": "Raju",
+      "email": "raju@gmail.com",
+      "password": "123455"
+    },
+    {
+      "id": "c411",
+      "name": "MAX",
+      "email": "max@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "74c8",
+      "name": "MAX",
+      "email": "max12@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "cart": [
+    {
+      "id": "eb04",
+      "title": "Oranges",
+      "type": "fruit",
+      "description": "Orange popsicle ice cream bars made from fresh oranges.  a refreshing summer treat.",
+      "filename": "4.jpg",
+      "height": 450,
+      "width": 274,
+      "price": 21.48,
+      "rating": 4,
+      "quantity": 1
+    },
+    {
+      "id": "6c13",
+      "title": "Plums",
+      "type": "fruit",
+      "description": "Yellow and red sweet plums",
+      "filename": "6.jpg",
+      "height": 450,
+      "width": 299,
+      "price": 19.18,
+      "rating": 1,
+      "quantity": 1
+    }
+  ]
+}
